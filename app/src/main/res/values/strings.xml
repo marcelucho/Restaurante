@@ -1,7 +1,25 @@
 <resources>
+    <!--inicio  -->
     <string name="app_name">Restaurante</string>
     <string name="inicio_titulo">Costeau</string>
     <string name="inicio_descrip">Experimente nuestro menú de temporada en un hermoso entorno campestre.
         Disfrute los productos mas frescos desde la comodidad de nuestra granja</string>
     <string name="btn_inicio">Reservar</string>
+    <!--Fin inicio  -->
+    <!--Menú  -->
+    <string name="txtMenuTitulo">Platos destacados de nuestro menú</string>
+    <string name="txtMenu_1">Filet Mignon al Romero</string>
+    <string name="txtMenu_2">Mousse de Chocolate con Frutas de Verano</string>
+    <string name="txtMenu_3">Filete de Salmon Braseado</string>
+    <string name="btnMenu_1">+ FAVORITO</string>
+    <string name="btnMenu_2">+ FAVORITO</string>
+    <string name="btnMenu_3">+ FAVORITO</string>
+    <!--Fin Menú  -->
+    <!--Eventos  -->
+    <string name="txtEventoTitulo">Reunión Familiar</string>
+    <string name="txtEventoDescrpcion">Nos encanta atender a familias enteras. Así que traiga
+        a todos a una comida especial con sus seres queridos. Brindaremos una experiencia memorable para todos. </string>
+    <string name="btnEventos">AGENDAR</string>
+
+
 </resources>
